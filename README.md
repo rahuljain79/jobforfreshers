@@ -1,0 +1,2 @@
+# jobforfreshers
+My Static Website
